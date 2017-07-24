@@ -1,10 +1,8 @@
 {
-  "name": "signalr-shimmy",
+  "name": "signalr-shimmy-fixed",
   "version": "0.1.7",
   "description": "JavaScript SignalR client with jQuery shimmied",
-  "keywords": [
-    "signalr"
-  ],
+  "keywords": ["signalr"],
   "homepage": "https://github.com/praveensewak/signalr-shimmy#readme",
   "repository": {
     "type": "git",
